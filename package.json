@@ -1,0 +1,20 @@
+{
+  "name": "learn-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaylaCao/Learn-nodejs.git"
+  },
+  "author": "caojiali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaylaCao/Learn-nodejs/issues"
+  },
+  "homepage": "https://github.com/LaylaCao/Learn-nodejs#readme"
+}
